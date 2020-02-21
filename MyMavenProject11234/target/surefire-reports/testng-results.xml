@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite A" duration-ms="10150" started-at="2020-02-19T18:14:03 PST" finished-at="2020-02-19T18:14:13 PST">
+    <groups>
+    </groups>
+    <test name="Test A1" duration-ms="6076" started-at="2020-02-19T18:14:03 PST" finished-at="2020-02-19T18:14:09 PST">
+      <class name="com.qtpselenium.Test1">
+        <test-method status="PASS" signature="testA1()[pri:0, instance:com.qtpselenium.Test1@5649fd9b]" name="testA1" duration-ms="2010" started-at="2020-02-19T18:14:03 PST" finished-at="2020-02-19T18:14:05 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA1 -->
+        <test-method status="PASS" signature="testB1()[pri:0, instance:com.qtpselenium.Test1@5649fd9b]" name="testB1" duration-ms="2000" started-at="2020-02-19T18:14:05 PST" finished-at="2020-02-19T18:14:07 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB1 -->
+        <test-method status="PASS" signature="testB3()[pri:0, instance:com.qtpselenium.Test1@5649fd9b]" name="testB3" duration-ms="2001" started-at="2020-02-19T18:14:07 PST" finished-at="2020-02-19T18:14:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB3 -->
+      </class> <!-- com.qtpselenium.Test1 -->
+    </test> <!-- Test A1 -->
+    <test name="Test A2" duration-ms="4005" started-at="2020-02-19T18:14:09 PST" finished-at="2020-02-19T18:14:13 PST">
+      <class name="com.qtpselenium.Test2">
+        <test-method status="PASS" signature="testB1()[pri:0, instance:com.qtpselenium.Test2@6fc6f14e]" name="testB1" duration-ms="2000" started-at="2020-02-19T18:14:09 PST" finished-at="2020-02-19T18:14:11 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB1 -->
+        <test-method status="PASS" signature="testB2()[pri:0, instance:com.qtpselenium.Test2@6fc6f14e]" name="testB2" duration-ms="2001" started-at="2020-02-19T18:14:11 PST" finished-at="2020-02-19T18:14:13 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB2 -->
+      </class> <!-- com.qtpselenium.Test2 -->
+    </test> <!-- Test A2 -->
+  </suite> <!-- Suite A -->
+</testng-results>
